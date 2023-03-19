@@ -1,4 +1,5 @@
 from pydantic import  BaseSettings, SecretStr
+from aiogram import Dispatcher
 
 class Settings(BaseSettings):
     # I used SecretStr because bot token  is the private information
