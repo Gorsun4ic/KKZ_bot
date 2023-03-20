@@ -1,0 +1,72 @@
+{
+    "Monday": [
+        {
+            "subject": "Math",
+            "teacher": "Mr. Smith",
+            "start_time": "09:00",
+            "end_time": "10:30"
+        },
+        {
+            "subject": "English",
+            "teacher": "Ms. Johnson",
+            "start_time": "11:00",
+            "end_time": "12:30"
+        }
+    ],
+    "Tuesday": [
+        {
+            "subject": "Science",
+            "teacher": "Mr. Lee",
+            "start_time": "09:00",
+            "end_time": "10:30"
+        },
+        {
+            "subject": "History",
+            "teacher": "Ms. Jackson",
+            "start_time": "11:00",
+            "end_time": "12:30"
+        }
+    ],
+    "Wednesday": [
+        {
+            "subject": "Math",
+            "teacher": "Mr. Smith",
+            "start_time": "09:00",
+            "end_time": "10:30"
+        },
+        {
+            "subject": "English",
+            "teacher": "Ms. Johnson",
+            "start_time": "11:00",
+            "end_time": "12:30"
+        }
+    ],
+    "Thursday": [
+        {
+            "subject": "Science",
+            "teacher": "Mr. Lee",
+            "start_time": "09:00",
+            "end_time": "10:30"
+        },
+        {
+            "subject": "History",
+            "teacher": "Ms. Jackson",
+            "start_time": "11:00",
+            "end_time": "12:30"
+        }
+    ],
+    "Friday": [
+        {
+            "subject": "Math",
+            "teacher": "Mr. Smith",
+            "start_time": "09:00",
+            "end_time": "10:30"
+        },
+        {
+            "subject": "English",
+            "teacher": "Ms. Johnson",
+            "start_time": "11:00",
+            "end_time": "12:30"
+        }
+    ]
+}

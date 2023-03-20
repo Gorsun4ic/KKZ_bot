@@ -1,9 +1,8 @@
 from pydantic import  BaseSettings, SecretStr
-from aiogram import Dispatcher
-
 class Settings(BaseSettings):
     # I used SecretStr because bot token  is the private information
     bot_token: SecretStr
+    admin_id: SecretStr
 
     class Config:
         # The file name extension, this files extension will be read
