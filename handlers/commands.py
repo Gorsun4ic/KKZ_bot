@@ -121,7 +121,9 @@ async def command_schedule(message: types.Message, command: CommandObject):
 
     # Add buttons to keyboard
     schedule_keyboard = InlineKeyboardMarkup(
-        inline_keyboard=[[button_mon], [button_tue], [button_wed], [button_thu], [button_fri], [button_sat],
+        inline_keyboard=[[button_mon], [button_tue],
+                         [button_wed], [button_thu],
+                         [button_fri], [button_sat],
                          [button_sun], [button_week]])
 
     if len(command_args) > 1:
